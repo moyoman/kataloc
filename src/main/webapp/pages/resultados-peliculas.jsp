@@ -44,7 +44,7 @@
 						<li class="menu-item"><a href="../">Home</a></li>
 						<li class="menu-item current-menu-item"><a href="peliculas">Movies</a></li>
 						<li class="menu-item"><a href="series">Series</a></li>
-						<li class="menu-item"><a href="">About us</a></li>
+						<li class="menu-item"><a href="/pages/about.html">About us</a></li>
 					</ul>
 					<!-- .menu -->
 
